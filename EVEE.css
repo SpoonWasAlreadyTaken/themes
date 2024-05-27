@@ -60,6 +60,8 @@
   --interactive-normal: var(--primary-400);
 
 
+  --background-message-hover: hsl(var(--primary-900-hsl)/0.3);
+
   --background-mentioned: #8a2dc011;
   --background-mentioned-hover: #fc199a1e;
   --info-warning-foreground: #8a2dc0;
