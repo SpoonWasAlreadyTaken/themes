@@ -1,0 +1,69 @@
+/**
+  * @name Wyrn
+  * @author SpoonWasAlreadyTaken
+  * @version 0.1
+  * @description Wyrn theme
+*/
+
+
+:root{
+
+  --background-primary: #1e2022;
+  --background-secondary: #18191d;
+  --background-accent: #242529;
+  --background-tertiary: #1a1b1f;
+  --background-secondary-alt: #0d0e0f;
+  --bg-overlay-2: #18191b;
+
+
+
+
+  --background-floating: var(--24dp);
+  --background-modifier-selected: var(--06dp);
+  --background-modifier-hover: var(--02dp);
+  --background-modifier-active: var(--04dp);
+  --switch-unchecked-background: #74796e33;
+  --switch-unchecked-color: #74796e;
+
+
+  --text-normal: #ebebeb;
+  --text-positive: #ff0ff3;
+  --text-primary: #ff0ff3;
+  --text-secondary: #ff0ff3;
+
+
+
+  --user-profile-header-overflow-background: #ff0ff3;
+  --logo-primary: #c34ef1c7;
+  --chat-border: #ff0ff3;
+  --channeltextarea-background: #17181a;
+  --card-primary-bg: #ff0ff3;
+  --chat-input-container-background: #ff0ff3;
+  --scrollbar-auto-thumb: #0d0e0f;
+  --scrollbar-auto-track: #27292c;
+
+
+  --chat-background: var(--primary-800);
+  --chat-input-container-background: var(--primary-600);
+
+
+  --header-primary: #c124ffc9;
+  --header-secondary: #ebebeb;
+  --header-muted: #c34ef1c7;
+
+
+  --interactive-active: var(--primary-160);
+  --interactive-hover: var(--primary-400);
+  --interactive-muted: var(--primary-300);
+  --interactive-normal: var(--primary-400);
+
+  --background-message-hover: hsl(var(--primary-900-hsl)/0.3);
+
+  --background-mentioned: #c124ff0a;
+  --background-mentioned-hover: #ff0ff328;
+  --info-warning-foreground: #c124ffc9;
+
+}
+
+
+

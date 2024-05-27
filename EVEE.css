@@ -1,0 +1,70 @@
+/**
+  * @name EVEE
+  * @author SpoonWasAlreadyTaken
+  * @version 0.1
+  * @description EVEEEEEE
+*/
+
+
+:root{
+
+  --switch-unchecked-background: #74796e33;
+  --switch-unchecked-color: #74796e;
+
+
+  --background-primary: #262335;
+  --background-secondary: #241B2F;
+  --background-accent: #241B2F;
+  --background-tertiary: #171520;
+  --background-secondary-alt: #15101b;
+  --bg-overlay-2: #171520;
+
+
+  --background-floating: var(--24dp);
+  --background-modifier-selected: var(--06dp);
+  --background-modifier-hover: var(--02dp);
+  --background-modifier-active: var(--04dp);
+  --switch-unchecked-background: #74796e33;
+  --switch-unchecked-color: #74796e;
+
+
+  --text-normal: #ebebeb;
+  --text-positive: #FC199A;
+  --text-primary: #FC199A;
+  --text-secondary: #FC199A;
+
+
+
+  --user-profile-header-overflow-background: #ff0ff3;
+  --logo-primary: #c34ef1c7;
+  --channeltextarea-background: #17181a;
+  --card-primary-bg: #ff0ff3;
+  --chat-input-container-background: #ff0ff3;
+  --scrollbar-auto-thumb: #060607;
+  --scrollbar-auto-track: #212325;
+
+
+  --chat-background: var(--primary-600);
+  --chat-border: #121315;
+  --chat-input-container-background: var(--primary-600);
+
+
+  --header-primary: #8A2DC0;
+  --header-secondary: #ebebeb;
+  --header-muted: #c34ef1c7;
+
+
+  --interactive-active: var(--primary-160);
+  --interactive-hover: var(--primary-400);
+  --interactive-muted: var(--primary-300);
+  --interactive-normal: var(--primary-400);
+
+
+  --background-mentioned: #8a2dc011;
+  --background-mentioned-hover: #fc199a1e;
+  --info-warning-foreground: #8a2dc0;
+
+}
+
+
+
