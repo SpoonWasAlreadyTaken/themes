@@ -60,22 +60,8 @@
   --background-message-hover: hsl(var(--primary-900-hsl)/0.3);
 
   --background-mentioned: #c124ff0a;
-  --background-mentioned-hover: #ff0ff328;
-  --info-warning-foreground: #c124ffc9;
-
-  --profile-gradient-primary-color: #ff0ff3;
-  --profile-gradient-secondary-color: #ff0ff3;
-  --profile-gradient-overlay-color: #ff0ff3;
-  --profile-gradient-button-color: #ff0ff3;
-  --profile-avatar-border-color: #ff0ff3#ff0ff3;
-  --profile-body-background-color: #ff0ff3;
-  --profile-body-background-hover: #ff0ff3;
-  --profile-body-divider-color: #ff0ff3;
-  --profile-body-border-color: #ff0ff3;
-  --profile-message-input-border-color: #ff0ff3;
-  --profile-note-background-color: #ff0ff3;
-  --profile-role-pill-background-color: #ff0ff3;
-  --profile-role-pill-border-color: #ff0ff3;
+  --background-mentioned-hover: #ff0ff31a;
+  --info-warning-foreground: #c124ff;
 
 }
 
