@@ -36,9 +36,8 @@
   --user-profile-header-overflow-background: #ff0ff3;
   --logo-primary: #c34ef1c7;
   --chat-border: #ff0ff3;
-  --channeltextarea-background: #17181a;
+  --channeltextarea-background: #121314;
   --card-primary-bg: #ff0ff3;
-  --chat-input-container-background: #ff0ff3;
   --scrollbar-auto-thumb: #0d0e0f;
   --scrollbar-auto-track: #27292c;
 
@@ -53,7 +52,7 @@
 
 
   --interactive-active: var(--primary-160);
-  --interactive-hover: var(--primary-400);
+  --interactive-hover: var(--primary-200);
   --interactive-muted: var(--primary-300);
   --interactive-normal: var(--primary-400);
 
@@ -62,7 +61,7 @@
   --background-mentioned: #c124ff0a;
   --background-mentioned-hover: #ff0ff31a;
   --info-warning-foreground: #c124ff;
-
+  --background-modifier-selected: #c124ff0a;
 }
 
 

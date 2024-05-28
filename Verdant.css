@@ -1,0 +1,74 @@
+/**
+  * @name Verdant
+  * @author SpoonWasAlreadyTaken
+  * @version 0.1
+  * @description Verdant
+*/
+
+
+:root{
+
+    --switch-unchecked-background: #74796e33;
+    --switch-unchecked-color: #74796e;
+  
+  
+    --background-primary: #2a3129;
+    --background-secondary: #1e241d;
+    --background-accent: #1a1f19;
+    --background-tertiary: #1a1f19;
+    --background-secondary-alt: #171b17;
+    --bg-overlay-2: #101410;
+  
+  
+    --background-floating: var(--24dp);
+    --background-modifier-selected: var(--06dp);
+    --background-modifier-hover: var(--02dp);
+    --background-modifier-active: var(--04dp);
+    --switch-unchecked-background: #74796e33;
+    --switch-unchecked-color: #74796e;
+  
+  
+    --text-normal: #ebebeb;
+    --text-positive: #785F7D;
+    --text-primary: #785F7D;
+    --text-secondary: #785F7D;
+  
+  
+  
+    --user-profile-header-overflow-background: #785F7D;
+    --logo-primary: #785F7D;
+    --channeltextarea-background: #17181a;
+    --card-primary-bg: #785F7D;
+    --scrollbar-auto-thumb: #46423f;
+    --scrollbar-auto-track: #242221;
+
+  
+  
+    --header-primary: #EADCCE;
+    --header-secondary: #ebebeb;
+    --header-muted: #EADCCE;
+  
+  
+    --interactive-active: var(--primary-160);
+    --interactive-hover: var(--primary-200);
+    --interactive-muted: var(--primary-300);
+    --interactive-normal: var(--primary-400);
+  
+  
+    --background-message-hover: hsl(var(--primary-800-hsl)/0.3);
+  
+    --background-mentioned: #785f7d0c;
+    --background-mentioned-hover: #74537a2a;
+    --info-warning-foreground: #996ea1;
+    --background-modifier-selected: #785f7d1f;
+  
+
+    --channeltextarea-background: #181d17;
+
+    --channels-default: #AE9FB1;
+  
+  }
+  
+  
+  
+  
