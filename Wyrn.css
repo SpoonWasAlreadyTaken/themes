@@ -59,9 +59,17 @@
   --background-message-hover: hsl(var(--primary-900-hsl)/0.3);
 
   --background-mentioned: #c124ff0a;
-  --background-mentioned-hover: #ff0ff31a;
+  --background-mentioned-hover: #ff0ff31a;  
   --info-warning-foreground: #c124ff;
   --background-modifier-selected: #c124ff0a;
+
+  --status-speaking: #c34ef1c7;
+  --background-floating: #0d0e0f;
+
+  --background-color: #c34ef1c7;
+
+  --primary-630: #18191d;
+
 }
 
 
