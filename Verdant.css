@@ -49,11 +49,10 @@
     --header-muted: #EADCCE;
   
   
-    --interactive-active: var(--primary-160);
-    --interactive-hover: var(--primary-200);
+    --interactive-active: var(--primary-100);
+    --interactive-hover: hsl(var(--primary-200-hsl)/0.1);
     --interactive-muted: var(--primary-300);
-    --interactive-normal: var(--primary-400);
-  
+    --interactive-normal: var(--primary-400);  
   
     --background-message-hover: hsl(var(--primary-800-hsl)/0.3);
   
@@ -74,6 +73,9 @@
     --background-modifier-selected: #1e241d;
     --bg-mod-faint: #2a3129;
     --home-background: #1a1f19;
+
+    --bg-overlay-selected: hsl(var(--primary-900-hsl)/0.2);
+
   }
   
   

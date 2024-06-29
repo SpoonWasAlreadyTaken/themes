@@ -51,12 +51,13 @@
   --header-muted: #c34ef1c7;
 
 
-  --interactive-active: var(--primary-160);
-  --interactive-hover: var(--primary-200);
+  --interactive-active: var(--primary-100);
+  --interactive-hover: hsl(var(--primary-200-hsl)/0.1);
   --interactive-muted: var(--primary-300);
   --interactive-normal: var(--primary-400);
 
   --background-message-hover: hsl(var(--primary-900-hsl)/0.3);
+
 
   --background-mentioned: #c124ff0a;
   --background-mentioned-hover: #ff0ff31a;  
@@ -74,6 +75,7 @@
   --bg-mod-faint: #1e2022;
   --home-background: #1a1b1f;
 
+  --bg-overlay-selected: hsl(var(--primary-900-hsl)/0.2);
 
 
 }
