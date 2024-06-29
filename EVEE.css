@@ -54,7 +54,7 @@
 
 
   --interactive-active: var(--primary-160);
-  --interactive-hover: var(--primary-200);
+  --interactive-hover: hsl(var(--primary-200-hsl)/0.9);
   --interactive-muted: var(--primary-300);
   --interactive-normal: var(--primary-400);
 
